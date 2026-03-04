@@ -11,5 +11,5 @@ This is a Python-based restaurant ordering system where users can:
 ## **How to Run**  
 1️⃣ Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/Menu_project.git
+   git clone https://github.com/2006Mohith/Menu_project.git
    cd Menu_project
